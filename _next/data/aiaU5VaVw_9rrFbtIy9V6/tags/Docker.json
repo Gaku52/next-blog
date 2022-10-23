@@ -1,0 +1,1 @@
+{"pageProps":{"posts":[{"title":"Dockerの学習","date":"2022-10-23","slug":"article-00008-Docker","coverImage":"/assets/blog/docker-photo/Docker.png","excerpt":"Dockerのコマンド操作から、ローカル環境での実行・本番環境へのデプロイの方法を学習する。","tags":["Docker","Linux","Ubuntu"]}]},"__N_SSG":true}
