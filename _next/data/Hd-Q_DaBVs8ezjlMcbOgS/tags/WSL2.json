@@ -1,0 +1,1 @@
+{"pageProps":{"posts":[{"title":"Ubuntuのデフォルトuserをrootから変更する","date":"2022-11-01","slug":"article-00010-Ubuntu","coverImage":"/assets/blog/Ubuntu/Ubuntu.png","excerpt":"WSLでデフォルトユーザーを変更したいとき、スムーズに設定できなかったため記録を残しておきます。","tags":["Ubuntu","Linux","WSL2"]}]},"__N_SSG":true}
